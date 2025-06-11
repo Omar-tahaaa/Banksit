@@ -2,7 +2,8 @@
 
 A minimalist banking interface built with pure JavaScript, featuring real transactions, transfers, and loan functionality.
 
-[![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen)](https://683b9843083d3e64de641ee1--banksitt.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen)](https://6848c950d0eeddaabb8b56eb--banksit99.netlify.app/)
+
 
 ## Features ✨
 
