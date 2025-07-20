@@ -4,7 +4,7 @@ A minimalist banking interface built with pure JavaScript, featuring real transa
 
 Live Demo: https://banksit99.netlify.app/
 
-## Features ✨
+## ✨ Features 
 
 - **User Authentication**: Secure login with username and PIN
 - **Account Overview**: Displays current balance with formatted currency
