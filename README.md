@@ -16,14 +16,14 @@ Live Demo: https://banksit99.netlify.app/
 - **Movement Sorting**: Sort transactions by amount
 - **Internationalization**: Formatted dates and currency based on user locale
 
-## Technologies Used 💻
+## 💻 Technologies Used 
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - Internationalization API (for dates and currency)
 
-  ## Key JavaScript Concepts Implemented 🧠
+## 🧠 Key JavaScript Concepts Implemented 
 
 - DOM manipulation
 - Event handling
