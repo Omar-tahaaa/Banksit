@@ -38,9 +38,3 @@ Live Demo: https://banksit99.netlify.app/
 |------|-----|----------|
 | `ot` | 1111 | EUR |
 | `mt` | 2222 | USD |
-
-## 🚀 Installation
-```bash
-git clone https://github.com/your-username/bankist.git
-cd bankist
-open index.html
